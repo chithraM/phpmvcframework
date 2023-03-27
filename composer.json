@@ -1,18 +1,9 @@
 {
-    "name": "91737/phpmvcframework",
-  
-    "authors": [
-        {
-            "name": "chithraM",
-            "email": "chithramurugan3@gmail.com"
-        }
-    ],
+    "name": "php/phpmvcframework",
     "autoload": {
         "psr-4": {
-            "app\\": "./"
+            "Php\\Phpmvcframework\\": "src/"
         }
     },
-    "require": {
-        "vlucas/phpdotenv": "^5.5"
-    }
+    "require": {}
 }
