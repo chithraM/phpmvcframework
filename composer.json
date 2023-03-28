@@ -2,15 +2,14 @@
     "name": "phpkanishka/phpmvcframework",
     "autoload": {
         "psr-4": {
-            "Php\\Phpmvcframework\\": "src/"
+            "Phpkanishka\\Phpmvcframework\\": "src/"
         }
     },
-    "require": {},
-    "repositories": {
-        "packagist.org": false,
-        "private-packagist": {
-            "type": "composer",
-            "url": "https://repo.packagist.com/chithum/"
+    "authors": [
+        {
+            "name": "chithraM",
+            "email": "chithramurugan3@gmail.com"
         }
-    }
+    ],
+    "require": {}
 }
