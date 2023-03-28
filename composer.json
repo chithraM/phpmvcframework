@@ -1,5 +1,5 @@
 {
-    "name": "php/phpmvcframeworkmedia",
+    "name": "php/phpmvcframeworkmediapoint",
     "autoload": {
         "psr-4": {
             "Php\\Phpmvcframework\\": "src/"
